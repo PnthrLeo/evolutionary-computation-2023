@@ -46,5 +46,5 @@
 
 **A:** При оптимальной постановке задачи сложность задачи растёт факториально от размерности задачи.
 
-# Источники
+## Источники
 1. Bernhardsson B. Explicit solutions to the n-queens problem for all n //ACM SIGART Bulletin. – 1991. – Т. 2. – №. 2. – С. 7.
