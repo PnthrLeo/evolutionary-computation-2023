@@ -161,3 +161,6 @@ cython_debug/
 
 # Ignore .pdf files
 *.pdf
+
+# Ignore custom files
+lab6/plot.ipynb
